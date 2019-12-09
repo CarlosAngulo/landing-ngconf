@@ -1,5 +1,5 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"], {
-        /***/ "./$$_lazy_route_resource lazy recursive": 
+        /***/ "./$$_lazy_route_resource lazy recursive":
         /*!******************************************************!*\
           !*** ./$$_lazy_route_resource lazy namespace object ***!
           \******************************************************/
@@ -18,9 +18,9 @@
             webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
             module.exports = webpackEmptyAsyncContext;
             webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
-            /***/ 
+            /***/
         }),
-        /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html": 
+        /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html":
         /*!**************************************************************************!*\
           !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html ***!
           \**************************************************************************/
@@ -29,9 +29,9 @@
             "use strict";
             __webpack_require__.r(__webpack_exports__);
             /* harmony default export */ __webpack_exports__["default"] = ("\r\n<app-header></app-header>\r\n<router-outlet></router-outlet>");
-            /***/ 
+            /***/
         }),
-        /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/header/header.component.html": 
+        /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/header/header.component.html":
         /*!************************************************************************************!*\
           !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/header/header.component.html ***!
           \************************************************************************************/
@@ -39,10 +39,10 @@
         /***/ (function (module, __webpack_exports__, __webpack_require__) {
             "use strict";
             __webpack_require__.r(__webpack_exports__);
-            /* harmony default export */ __webpack_exports__["default"] = ("<div class=\"caption\">\r\n    <img class= \"logo\" src=\"../../assets/logo.png\">\r\n    <h2>NG CONF COLOMBIA</h2>\r\n    <h1>COMING SOON </h1>\r\n    <h3>14-15 &bull; AGUST &bull; 2020</h3>\r\n</div>\r\n\r\n");
-            /***/ 
+            /* harmony default export */ __webpack_exports__["default"] = ("<div class=\"caption\">\r\n    <img class= \"logo\" src=\"./assets/logo.png\">\r\n    <h2>NG CONF COLOMBIA</h2>\r\n    <h1>COMING SOON </h1>\r\n    <h3>14-15 &bull; AGUST &bull; 2020</h3>\r\n</div>\r\n\r\n");
+            /***/
         }),
-        /***/ "./node_modules/tslib/tslib.es6.js": 
+        /***/ "./node_modules/tslib/tslib.es6.js":
         /*!*****************************************!*\
           !*** ./node_modules/tslib/tslib.es6.js ***!
           \*****************************************/
@@ -75,12 +75,12 @@
             Licensed under the Apache License, Version 2.0 (the "License"); you may not use
             this file except in compliance with the License. You may obtain a copy of the
             License at http://www.apache.org/licenses/LICENSE-2.0
-            
+
             THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
             KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
             WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
             MERCHANTABLITY OR NON-INFRINGEMENT.
-            
+
             See the Apache Version 2.0 License for specific language governing permissions
             and limitations under the License.
             ***************************************************************************** */
@@ -340,9 +340,9 @@
             function __importDefault(mod) {
                 return (mod && mod.__esModule) ? mod : { default: mod };
             }
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/app-routing.module.ts": 
+        /***/ "./src/app/app-routing.module.ts":
         /*!***************************************!*\
           !*** ./src/app/app-routing.module.ts ***!
           \***************************************/
@@ -366,9 +366,9 @@
                     exports: [_angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterModule"]]
                 })
             ], AppRoutingModule);
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/app.component.scss": 
+        /***/ "./src/app/app.component.scss":
         /*!************************************!*\
           !*** ./src/app/app.component.scss ***!
           \************************************/
@@ -377,9 +377,9 @@
             "use strict";
             __webpack_require__.r(__webpack_exports__);
             /* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJ9 */");
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/app.component.ts": 
+        /***/ "./src/app/app.component.ts":
         /*!**********************************!*\
           !*** ./src/app/app.component.ts ***!
           \**********************************/
@@ -403,9 +403,9 @@
                     styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./app.component.scss */ "./src/app/app.component.scss")).default]
                 })
             ], AppComponent);
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/app.module.ts": 
+        /***/ "./src/app/app.module.ts":
         /*!*******************************!*\
           !*** ./src/app/app.module.ts ***!
           \*******************************/
@@ -439,9 +439,9 @@
                     bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
                 })
             ], AppModule);
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/header/header.component.scss": 
+        /***/ "./src/app/header/header.component.scss":
         /*!**********************************************!*\
           !*** ./src/app/header/header.component.scss ***!
           \**********************************************/
@@ -450,9 +450,9 @@
             "use strict";
             __webpack_require__.r(__webpack_exports__);
             /* harmony default export */ __webpack_exports__["default"] = ("html {\n  box-sizing: border-box;\n}\n\n*,\n*:after,\n*::before {\n  box-sizing: inherit;\n}\n\n:host {\n  background: url('purple.jpg') no-repeat center center;\n  background-size: cover;\n  height: 100vh;\n  display: flex;\n  align-items: center;\n  color: #ffff;\n}\n\n.caption {\n  text-align: center;\n  flex: 0 0 100%;\n}\n\n.caption .logo {\n  width: 200px;\n}\n\n@media (min-width: 1200px) {\n  .caption .logo {\n    width: 250px;\n    margin-bottom: 50px;\n  }\n}\n\n.caption h2 {\n  font-size: 20px;\n  margin: 5px 0;\n}\n\n@media (min-width: 768px) {\n  .caption h2 {\n    font-size: 40px;\n  }\n}\n\n.caption h1 {\n  font-size: 36px;\n  margin: 5px 0;\n  text-transform: uppercase;\n}\n\n@media (min-width: 768px) {\n  .caption h1 {\n    font-size: 70px;\n  }\n}\n\n.caption h3 {\n  font-size: 20px;\n  font-weight: bold;\n  margin: 0;\n}\n\n@media (min-width: 768px) {\n  .caption h3 {\n    font-size: 40px;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaGVhZGVyL0M6XFxVc2Vyc1xcQ2FybG9zXFxEb2N1bWVudHNcXE5HLUNPTkZcXHBhZ2VzXFxORy1Db25mL3NyY1xcYXBwXFxoZWFkZXJcXGhlYWRlci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvaGVhZGVyL0M6XFxVc2Vyc1xcQ2FybG9zXFxEb2N1bWVudHNcXE5HLUNPTkZcXHBhZ2VzXFxORy1Db25mL3NyY1xcc2Fzc1xcX21peGlucy5zY3NzIiwic3JjL2FwcC9oZWFkZXIvaGVhZGVyLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9oZWFkZXIvQzpcXFVzZXJzXFxDYXJsb3NcXERvY3VtZW50c1xcTkctQ09ORlxccGFnZXNcXE5HLUNvbmYvc3JjXFxzYXNzXFxfdmFyaWFibGVzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBR0E7RUNtQkksc0JEbEJvQjtBRUZ4Qjs7QUZJQTs7O0VDZ0JJLG1CRGJxQjtBRUR6Qjs7QUZLQTtFQUNJLHFEQUFBO0VBQ0Esc0JBQUE7RUFDQSxhQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsWUdiSztBRFdUOztBRktBO0VBQ0ksa0JBQUE7RUFDQSxjQUFBO0FFRko7O0FGSUk7RUFDSSxZQUFBO0FFRlI7O0FEVkk7RURXQTtJQUdNLFlBQUE7SUFDQSxtQkFBQTtFRUFSO0FBQ0Y7O0FGR0k7RUFDSSxlQUFBO0VBQ0EsYUFBQTtBRURSOztBRDNCSTtFRDBCQTtJQUlRLGVBQUE7RUVDVjtBQUNGOztBRkVJO0VBQ0ksZUFBQTtFQUNBLGFBQUE7RUFDQSx5QkFBQTtBRUFSOztBRHJDSTtFRGtDQTtJQUtRLGVBQUE7RUVFVjtBQUNGOztBRkNJO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0EsU0FBQTtBRUNSOztBRC9DSTtFRDJDQTtJQUtRLGVBQUE7RUVHVjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvaGVhZGVyL2hlYWRlci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4uLy4uL3Nhc3MvdmFyaWFibGVzJztcclxuQGltcG9ydCAnLi4vLi4vc2Fzcy9taXhpbnMnO1xyXG5cclxuaHRtbCB7XHJcbiAgICBAaW5jbHVkZSBib3gtc2l6aW5nKGJvcmRlci1ib3gpO1xyXG59XHJcbiosXHJcbio6YWZ0ZXIsXHJcbio6OmJlZm9yZSB7XHJcbiAgICBAaW5jbHVkZSBib3gtc2l6aW5nIChpbmhlcml0KTtcclxufVxyXG5cclxuXHJcbjpob3N0IHtcclxuICAgIGJhY2tncm91bmQ6IHVybCguLi8uLi9hc3NldHMvcHVycGxlLmpwZykgbm8tcmVwZWF0IGNlbnRlciBjZW50ZXI7XHJcbiAgICBiYWNrZ3JvdW5kLXNpemU6Y292ZXI7XHJcbiAgICBoZWlnaHQ6IDEwMHZoO1xyXG4gICAgZGlzcGxheTogZmxleDtcclxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICBjb2xvcjogJGJsYW5jbztcclxufVxyXG5cclxuLmNhcHRpb24ge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgZmxleDogMCAwIDEwMCU7XHJcblxyXG4gICAgLmxvZ28ge1xyXG4gICAgICAgIHdpZHRoOiAyMDBweDtcclxuICAgICAgICBAaW5jbHVkZSBkZXNrdG9wIHtcclxuICAgICAgICAgIHdpZHRoOiAyNTBweDtcclxuICAgICAgICAgIG1hcmdpbi1ib3R0b206IDUwcHg7XHJcbiAgICAgICAgfVxyXG4gICAgfVxyXG5cclxuICAgIGgyIHtcclxuICAgICAgICBmb250LXNpemU6IDIwcHg7XHJcbiAgICAgICAgbWFyZ2luOiA1cHggMDtcclxuICAgICAgICBAaW5jbHVkZSB0YWJsZXQge1xyXG4gICAgICAgICAgICBmb250LXNpemU6IDQwcHg7XHJcbiAgICAgICAgfVxyXG4gICAgfVxyXG5cclxuICAgIGgxIHtcclxuICAgICAgICBmb250LXNpemU6IDM2cHg7XHJcbiAgICAgICAgbWFyZ2luOiA1cHggMDtcclxuICAgICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG4gICAgICAgIEBpbmNsdWRlIHRhYmxldCB7XHJcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogNzBweDtcclxuICAgICAgICB9XHJcbiAgICB9XHJcblxyXG4gICAgaDMge1xyXG4gICAgICAgIGZvbnQtc2l6ZTogMjBweDtcclxuICAgICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgICAgICBtYXJnaW46IDA7XHJcbiAgICAgICAgQGluY2x1ZGUgdGFibGV0IHtcclxuICAgICAgICAgICAgZm9udC1zaXplOiA0MHB4XHJcblxyXG4gICAgICAgIH1cclxuXHJcbiAgICB9XHJcbn1cclxuIiwiQG1peGluIHRlbGVmb25vIHtcclxuICAgIEBtZWRpYSAobWluLXdpZHRoOiAjeyR0ZWxlZm9ub30pe1xyXG4gICAgICAgIEBjb250ZW50O1xyXG5cclxuICAgIH1cclxufVxyXG5cclxuQG1peGluIHRhYmxldCB7XHJcbiAgICBAbWVkaWEgKG1pbi13aWR0aDogI3skdGFibGV0fSl7XHJcbiAgICAgICAgQGNvbnRlbnQ7XHJcbiAgICAgICAgXHJcbiAgICB9XHJcbn1cclxuXHJcbkBtaXhpbiBkZXNrdG9wIHtcclxuICAgIEBtZWRpYSAobWluLXdpZHRoOiAjeyRkZXNrdG9wfSl7XHJcbiAgICAgICAgQGNvbnRlbnQ7XHJcbiAgICAgICAgXHJcbiAgICB9XHJcbn1cclxuXHJcbkBtaXhpbiBib3gtc2l6aW5nICgkYm94LW1vZGVsKSB7XHJcbiAgICBib3gtc2l6aW5nOiAkYm94LW1vZGVsO1xyXG59XHJcblxyXG5AbWl4aW4gYm90b24gKCRiZ2NvbG9yKSB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkYmdjb2xvcjtcclxuICAgIGNvbG9yOiAkbmVncm87XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgYm9yZGVyOiBub25lO1xyXG4gICAgYm9yZGVyLXJhZGl1czogJHJhZGl1cztcclxuICAgIGZvbnQtc2l6ZTogMXJlbTtcclxuICAgIHBhZGRpbmc6IDEwcHggMTVweDsgXHJcbiAgICBcclxufSIsImh0bWwge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xufVxuXG4qLFxuKjphZnRlcixcbio6OmJlZm9yZSB7XG4gIGJveC1zaXppbmc6IGluaGVyaXQ7XG59XG5cbjpob3N0IHtcbiAgYmFja2dyb3VuZDogdXJsKC4uLy4uL2Fzc2V0cy9wdXJwbGUuanBnKSBuby1yZXBlYXQgY2VudGVyIGNlbnRlcjtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgZGlzcGxheTogZmxleDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgY29sb3I6ICNmZmZmO1xufVxuXG4uY2FwdGlvbiB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgZmxleDogMCAwIDEwMCU7XG59XG4uY2FwdGlvbiAubG9nbyB7XG4gIHdpZHRoOiAyMDBweDtcbn1cbkBtZWRpYSAobWluLXdpZHRoOiAxMjAwcHgpIHtcbiAgLmNhcHRpb24gLmxvZ28ge1xuICAgIHdpZHRoOiAyNTBweDtcbiAgICBtYXJnaW4tYm90dG9tOiA1MHB4O1xuICB9XG59XG4uY2FwdGlvbiBoMiB7XG4gIGZvbnQtc2l6ZTogMjBweDtcbiAgbWFyZ2luOiA1cHggMDtcbn1cbkBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkge1xuICAuY2FwdGlvbiBoMiB7XG4gICAgZm9udC1zaXplOiA0MHB4O1xuICB9XG59XG4uY2FwdGlvbiBoMSB7XG4gIGZvbnQtc2l6ZTogMzZweDtcbiAgbWFyZ2luOiA1cHggMDtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cbkBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkge1xuICAuY2FwdGlvbiBoMSB7XG4gICAgZm9udC1zaXplOiA3MHB4O1xuICB9XG59XG4uY2FwdGlvbiBoMyB7XG4gIGZvbnQtc2l6ZTogMjBweDtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIG1hcmdpbjogMDtcbn1cbkBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkge1xuICAuY2FwdGlvbiBoMyB7XG4gICAgZm9udC1zaXplOiA0MHB4O1xuICB9XG59IiwiJGZ1ZW50ZXByaW5jaXBhbCA6ICAnUG9wcGlucycsIHNhbnMtc2VyaWY7XHJcbiRjb2xvci1wcmluY2lwYWw6ICMwMjczNUU7XHJcbiRtb3JhZG8yOiAjN0MwN0YyO1xyXG4kYXp1bDogIzUxMDdGMjtcclxuJHZlcmRlOiAjMjJEOEI3O1xyXG4kYW1hcmlsbG86ICNENkYyMDQ7XHJcbiRibGFuY286ICNmZmZmO1xyXG4kbmVncm86ICMyNjI2MjY7XHJcbiRyYWRpdXM6IDMwcHg7XHJcblxyXG4kdGVsZWZvbm8gOiA0ODBweDtcclxuJHRhYmxldCA6IDc2OHB4O1xyXG4kZGVza3RvcCA6IDEyMDBweDtcclxuJGJvcmRlciA6IDFweCBzb2xpZCAjY2NjYzsiXX0= */");
-            /***/ 
+            /***/
         }),
-        /***/ "./src/app/header/header.component.ts": 
+        /***/ "./src/app/header/header.component.ts":
         /*!********************************************!*\
           !*** ./src/app/header/header.component.ts ***!
           \********************************************/
@@ -477,9 +477,9 @@
                     styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./header.component.scss */ "./src/app/header/header.component.scss")).default]
                 })
             ], HeaderComponent);
-            /***/ 
+            /***/
         }),
-        /***/ "./src/environments/environment.ts": 
+        /***/ "./src/environments/environment.ts":
         /*!*****************************************!*\
           !*** ./src/environments/environment.ts ***!
           \*****************************************/
@@ -503,9 +503,9 @@
              * on performance if an error is thrown.
              */
             // import 'zone.js/dist/zone-error';  // Included with Angular CLI.
-            /***/ 
+            /***/
         }),
-        /***/ "./src/main.ts": 
+        /***/ "./src/main.ts":
         /*!*********************!*\
           !*** ./src/main.ts ***!
           \*********************/
@@ -523,16 +523,16 @@
             }
             Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformBrowserDynamic"])().bootstrapModule(_app_app_module__WEBPACK_IMPORTED_MODULE_3__["AppModule"])
                 .catch(function (err) { return console.error(err); });
-            /***/ 
+            /***/
         }),
-        /***/ 0: 
+        /***/ 0:
         /*!***************************!*\
           !*** multi ./src/main.ts ***!
           \***************************/
         /*! no static exports found */
         /***/ (function (module, exports, __webpack_require__) {
             module.exports = __webpack_require__(/*! C:\Users\Carlos\Documents\NG-CONF\pages\NG-Conf\src\main.ts */ "./src/main.ts");
-            /***/ 
+            /***/
         })
     }, [[0, "runtime", "vendor"]]]);
 //# sourceMappingURL=main-es2015.js.map

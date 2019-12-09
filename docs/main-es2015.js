@@ -45,7 +45,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"caption\">\r\n    <img class= \"logo\" src=\"../../assets/logo.png\">\r\n    <h2>NG CONF COLOMBIA</h2>\r\n    <h1>COMING SOON </h1>\r\n    <h3>14-15 &bull; AGUST &bull; 2020</h3>\r\n</div>\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"caption\">\r\n    <img class= \"logo\" src=\"./assets/logo.png\">\r\n    <h2>NG CONF COLOMBIA</h2>\r\n    <h1>COMING SOON </h1>\r\n    <h3>14-15 &bull; AGUST &bull; 2020</h3>\r\n</div>\r\n\r\n");
 
 /***/ }),
 
