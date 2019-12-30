@@ -6370,8 +6370,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Carlos\Documents\NG-CONF\pages\NG-Conf\src\polyfills.ts */"./src/polyfills.ts");
-module.exports = __webpack_require__(/*! C:\Users\Carlos\Documents\NG-CONF\pages\NG-Conf\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
+__webpack_require__(/*! C:\Users\carlos.angulo\Documents\projects\NG-Conf\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\carlos.angulo\Documents\projects\NG-Conf\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
 
 
 /***/ })
